@@ -16,7 +16,6 @@ import time
 from dataclasses import dataclass
 from typing import Optional, Dict, Any, List
 
-import litellm
 from json_repair import repair_json
 from litellm import Router
 
