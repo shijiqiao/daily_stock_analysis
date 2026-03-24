@@ -26,7 +26,7 @@ numpy>=1.24.0               # 数值计算
 json-repair>=0.55.1         # JSON 修复
 
 # AI 分析
-litellm>=1.80.10            # Unified LLM client (Gemini/Anthropic/OpenAI/DeepSeek etc.)
+# litellm>=1.80.10            # Unified LLM client (Gemini/Anthropic/OpenAI/DeepSeek etc.)
 openai>=1.0.0               # OpenAI SDK (transitive dependency of litellm, kept explicit)
 
 # 搜索引擎（用于获取股票新闻）
